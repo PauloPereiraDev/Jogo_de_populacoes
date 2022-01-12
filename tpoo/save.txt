@@ -1,0 +1,13 @@
+20 40
+2
+jogador1 3 1000 200
+1
+cidadejogador 10 10 2
+1 1 7 9 NULL 0 0 0 0 0
+4 3 23 16 NULL 0 0 0 0 0
+cpu 4 1000 200
+1
+cidadecpu 24 16 1
+2 2 7 10 NULL 0 0 0 0 0
+
+0
